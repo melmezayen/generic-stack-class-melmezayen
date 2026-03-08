@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"melmezayen","l":"Main"},{"p":"melmezayen","l":"Stack"},{"p":"melmezayen","l":"StackEmptyException"},{"p":"melmezayen","l":"StackFullException"}];updateSearchResults();
